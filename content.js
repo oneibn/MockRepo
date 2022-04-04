@@ -1,3 +1,3 @@
 console.log("qbksn")
 console.log("lxjld")
-console.log("rxqiq")
+console.log("myway")
