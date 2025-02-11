@@ -674,10 +674,11 @@
   border-bottom-width: 54px;
   margin-left: 51px;
   font-size: 55px;
-  padding-bottom: 82px;
-  padding-left: 86px;
-  line-height: 81px;
-  padding-right: 55px;
-  margin-left: 85px;
-  margin-left: 84px;
+  border-top-width: 52px;
+  border-bottom-width: 91px;
+  padding-bottom: 34px;
+  margin-left: 60px;
+  font-size: 6px;
+  line-height: 47px;
+  padding-bottom: 18px;
 }
