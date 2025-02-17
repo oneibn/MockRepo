@@ -675,10 +675,11 @@
   margin-left: 95px;
   margin-right: 17px;
   border-top-width: 28px;
-  padding-top: 51px;
-  margin-bottom: 93px;
-  font-size: 33px;
-  margin-left: 11px;
-  border-top-width: 77px;
-  font-size: 70px;
+  line-height: 21px;
+  line-height: 91px;
+  border-bottom-width: 29px;
+  border-top-width: 13px;
+  padding-bottom: 17px;
+  padding-left: 17px;
+  border-bottom-width: 26px;
 }
